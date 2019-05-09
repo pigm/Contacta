@@ -1,0 +1,49 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contacta", "contacta\contacta.csproj", "{42288642-3795-452A-9018-C7C2A4CF362F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Presentacion", "01. Presentacion", "{515295DF-9161-40E5-9DC8-FD7677180DAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Datos", "03. Datos", "{58688FD7-B6E7-4DBC-850F-0091F94A0626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contacta.data.common", "contacta.data.common\contacta.data.common.csproj", "{645CEECF-8845-4A9F-8C61-4DF8893B9C3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Servicios", "05. Servicios", "{7D593408-BF1F-4983-910E-7FCFAF5304A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contacta.services.cosmos.common", "contacta.services.cosmos.common\contacta.services.cosmos.common.csproj", "{C8D29FC1-8472-49A7-B6BE-658732E006FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Test", "08. Test", "{47BA5D5C-C702-42FF-B783-E9F2FDA511C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contacta.test.common.service", "contacta.test.common.service\contacta.test.common.service.csproj", "{4C4AFD06-65B1-4B90-98ED-B1188093E406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42288642-3795-452A-9018-C7C2A4CF362F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42288642-3795-452A-9018-C7C2A4CF362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42288642-3795-452A-9018-C7C2A4CF362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42288642-3795-452A-9018-C7C2A4CF362F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645CEECF-8845-4A9F-8C61-4DF8893B9C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645CEECF-8845-4A9F-8C61-4DF8893B9C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645CEECF-8845-4A9F-8C61-4DF8893B9C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645CEECF-8845-4A9F-8C61-4DF8893B9C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D29FC1-8472-49A7-B6BE-658732E006FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D29FC1-8472-49A7-B6BE-658732E006FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D29FC1-8472-49A7-B6BE-658732E006FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D29FC1-8472-49A7-B6BE-658732E006FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4AFD06-65B1-4B90-98ED-B1188093E406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4AFD06-65B1-4B90-98ED-B1188093E406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4AFD06-65B1-4B90-98ED-B1188093E406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4AFD06-65B1-4B90-98ED-B1188093E406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{42288642-3795-452A-9018-C7C2A4CF362F} = {515295DF-9161-40E5-9DC8-FD7677180DAD}
+		{645CEECF-8845-4A9F-8C61-4DF8893B9C3A} = {58688FD7-B6E7-4DBC-850F-0091F94A0626}
+		{C8D29FC1-8472-49A7-B6BE-658732E006FD} = {7D593408-BF1F-4983-910E-7FCFAF5304A4}
+		{4C4AFD06-65B1-4B90-98ED-B1188093E406} = {47BA5D5C-C702-42FF-B783-E9F2FDA511C8}
+	EndGlobalSection
+EndGlobal

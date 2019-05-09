@@ -1,0 +1,15 @@
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/Microsoft.Azure.Documents.ServiceInterop.dll
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/contacta.test.common.deps.json
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/contacta.test.common.dll
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/contacta.test.common.pdb
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/contacta.data.common.dll
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/contacta.services.cosmos.common.dll
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/contacta.services.cosmos.common.pdb
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/bin/Debug/netstandard2.0/contacta.data.common.pdb
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/obj/Debug/netstandard2.0/contacta.test.common.csprojAssemblyReference.cache
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/obj/Debug/netstandard2.0/contacta.test.common.csproj.CoreCompileInputs.cache
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/obj/Debug/netstandard2.0/contacta.test.common.AssemblyInfoInputs.cache
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/obj/Debug/netstandard2.0/contacta.test.common.AssemblyInfo.cs
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/obj/Debug/netstandard2.0/contacta.test.common.csproj.CopyComplete
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/obj/Debug/netstandard2.0/contacta.test.common.dll
+/Volumes/Proyectos/Dsac/TFS/Contacta/contacta/contacta.test.common/obj/Debug/netstandard2.0/contacta.test.common.pdb
